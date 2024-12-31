@@ -1,6 +1,7 @@
 #pragma once
 
-#include "GameEngine/Application.h"
 
+#include <stdio.h>
+#include "GameEngine/Application.h"
 
 #include "GameEngine/EntryPoint.h"
